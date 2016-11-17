@@ -1,0 +1,2 @@
+# goLib
+bmob go library
